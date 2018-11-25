@@ -23,7 +23,7 @@ To update intraday with specified frequency
 
 ## Authors
 
-* **Sergei Belenki** - *Initial work* - [BaoBau](http://www2.baobau.com.s3-website-us-east-1.amazonaws.com)
+* **Sergei Belenki** - *Initial work*
 
 ## License
 
